@@ -1,0 +1,172 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/df044f45-a08a-4534-b739-995e9dd2bc9f.json",
+	"@type": "sc:Manifest",
+	"label": "Bodleian Library Filmstrip Roll 161A, frame 9",
+	"description": "[Portolan codex. Central Mediterranean; the Ionian Sea; Gulf of Taranto; the Sicilian Channel; the Malta Channel; Gulf of Sirte]",
+	"metadata": [
+		{
+			"label": "Homepage",
+			"value": "<span><a href=\"https://digital.bodleian.ox.ac.uk/inquire/p/df044f45-a08a-4534-b739-995e9dd2bc9f\">View on Digital Bodleian</a></span>"
+		},
+		{
+			"label": "Title",
+			"value": "[Portolan codex. Central Mediterranean; the Ionian Sea; Gulf of Taranto; the Sicilian Channel; the Malta Channel; Gulf of Sirte]"
+		},
+		{
+			"label": "Date Statement",
+			"value": "1400"
+		},
+		{
+			"label": "Description",
+			"value": "Venetian illuminated portolan codex. One of the seven openings of this chart which would, if joined, measure 860 x 460 mm"
+		},
+		{
+			"label": "Extent",
+			"value": "280 x 290 mm"
+		},
+		{
+			"label": "Extent",
+			"value": "35mm slide"
+		},
+		{
+			"label": "Collection",
+			"value": "Maps"
+		},
+		{
+			"label": "Collection",
+			"value": "Slide Facsimiles"
+		},
+		{
+			"label": "Subject",
+			"value": "Mediterranean Sea Maps, Manuscript Early works to 1800"
+		},
+		{
+			"label": "Other Identifier",
+			"value": "Filmstrip Roll 161A, frame 9"
+		},
+		{
+			"label": "Record Created",
+			"value": "2015-07-10T00:00:00Z"
+		},
+		{
+			"label": "Holding Institution",
+			"value": "Bodleian Libraries, University of Oxford"
+		}
+	],
+	"navDate": "1400-01-01T00:00:00Z",
+	"rendering": {
+		"@id": "https://digital.bodleian.ox.ac.uk/inquire/p/df044f45-a08a-4534-b739-995e9dd2bc9f",
+		"label": "View on Digital Bodleian",
+		"format": "text/html"
+	},
+	"attribution": "http://creativecommons.org/licenses/by-nc-sa/3.0/.",
+	"logo": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b83fe9b4-3ffb-4890-aa3f-7d551dfd8b38/full/256,/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b83fe9b4-3ffb-4890-aa3f-7d551dfd8b38"
+		}
+	},
+	"thumbnail": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/df044f45-a08a-4534-b739-995e9dd2bc9f/full/256,/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/df044f45-a08a-4534-b739-995e9dd2bc9f"
+		}
+	},
+	"viewingHint": "individuals",
+	"sequences": [
+		{
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/sequence/df044f45-a08a-4534-b739-995e9dd2bc9f_default.json",
+			"@type": "sc:Sequence",
+			"label": "Default",
+			"canvases": [
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/df044f45-a08a-4534-b739-995e9dd2bc9f.json",
+					"@type": "sc:Canvas",
+					"label": "Image 1",
+					"width": 1818,
+					"height": 1228,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/df044f45-a08a-4534-b739-995e9dd2bc9f.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/df044f45-a08a-4534-b739-995e9dd2bc9f.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/df044f45-a08a-4534-b739-995e9dd2bc9f",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1818,
+								"height": 1228,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/df044f45-a08a-4534-b739-995e9dd2bc9f"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "http://b1740540-bd24-4b22-93cf-0f18e5c4d840",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2550,
+					"width": 2087,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d24958c5-8700-43fa-875a-e769e6aa6460",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/47174896/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/47174896",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 2550,
+								"width": 2087
+							},
+							"on": "http://b1740540-bd24-4b22-93cf-0f18e5c4d840"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"seeAlso": {}
+}
